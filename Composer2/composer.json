@@ -1,0 +1,17 @@
+{
+    "name": "jeremycastaing/composer2",
+    "autoload": {
+        "psr-4": {
+            "Jeremycastaing\\Composer2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Garcon2Jeu",
+            "email": "104232891+Garcon2Jeu@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
